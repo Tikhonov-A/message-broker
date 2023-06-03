@@ -2,7 +2,7 @@
 
 Architecture: 
 
-![image](![image](https://github.com/Tikhonov-A/message-broker/assets/90198944/f4ca6b06-5267-4faf-9642-a6c52a979e06))
+![image](https://github.com/Tikhonov-A/message-broker/assets/90198944/28f188a1-5cad-4d59-a9da-58af590c350a)
 
 # UI: 
 
